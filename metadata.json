@@ -1,0 +1,6 @@
+{
+  "name": "NDÛZAVÉL — Apps, AI & Gaming",
+  "description": "Modern, premium technology platform owned by Mr. Tyler Ndu at nduzaveltech.com showcasing apps, AI tools, gaming, community chat, private digital vault, and development studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
